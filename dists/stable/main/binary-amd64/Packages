@@ -1,0 +1,17 @@
+Package: telefy
+Version: 0.1.0
+Architecture: amd64
+Maintainer: Universe Software <plexi.eater+universe@gmail.com>
+Installed-Size: 9
+Homepage: https://universe-software.github.io/telefy
+Priority: optional
+Section: comm
+Filename: pool/main/t/telefy/telefy_0.1.0_amd64.deb
+Size: 2048
+SHA256: ef7ce04b5b72ab2a096dba75803ff817d77cebb4c8e92c940dce5b1521d66b46
+SHA1: 8c55fb0cd2509dda1210fa3e94701eed8fd1a746
+MD5sum: e26f31cc7e92b2f492a98d9475e4212b
+Description: A general purpose internet communications app for chat, forums, message boards, etc.
+ A general purpose internet communications app for chat, forums, message boards, etc.
+ It uses peer-to-peer communication technology with no need for a centralized service or accounts.
+

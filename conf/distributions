@@ -1,0 +1,7 @@
+Origin: Universe Software
+Label: Universe Software
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Debian repository for all Universe Software packages
+SignWith: 2C12208FFA8367F8CEBEB5F30F9093139C8A4CAC

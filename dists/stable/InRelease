@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Universe Software
+Label: Universe Software
+Codename: stable
+Date: Thu, 03 Sep 2020 22:45:07 UTC
+Architectures: amd64
+Components: main
+Description: Debian repository for all Universe Software packages
+MD5Sum:
+ c9aebc05581d594f3c07fec075215489 726 main/binary-amd64/Packages
+ 344a5a5fc712f0e620cb7587bcd83b4e 457 main/binary-amd64/Packages.gz
+ 822d589663a522ac506a8d58fae9c109 153 main/binary-amd64/Release
+SHA1:
+ de7f104a333ff4ceef3db80c5a27aff41a5ef2e2 726 main/binary-amd64/Packages
+ 70c21bc84b43fca7640797cd830b1bada937d1d1 457 main/binary-amd64/Packages.gz
+ 6cd8180dfb3f4895a92d039ccc5dc61afde5aaeb 153 main/binary-amd64/Release
+SHA256:
+ b7ed71313458a4cc459846c42f9a5f6fc8c7682bbc995f7da9d4ac96b23f7b70 726 main/binary-amd64/Packages
+ 4b6d297d20d6cb62600d20106d85008f5deefdc776a1f9ea44908b68fa78550f 457 main/binary-amd64/Packages.gz
+ 69ded35352f87cb5072843343823c2b75938c8097f8936b5a73ccd8e3e94b9d8 153 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEELBIgj/qDZ/jOvrXzD5CTE5yKTKwFAl9RcfYACgkQD5CTE5yK
+TKy/cggAnX6YJcx3g8F3GZKz74YOlZE6cWbangGEC4CqbpKQeWtuE5BhTzAzsvd3
+NYWvS5/Y6YYRlaI6ddLzMe8+DANxjc99OGpKwxGR7YPvwbiT8Gf6a1j4q/NqjsTJ
+ltIZwwuCRealvdug1PN+Xk9Miruq8GMbce7Ma2jdMgAodOoNrRcWrT9fz4FICVoC
+ksy0WsWmwYHbndQW2mERCOf+EQLyGjSHDBedbElTSRl/rGpnUPvsomiqL2jdV9tY
+JDb5oQmUam3iZwJELoU7Pq9K5uF5cwqL26W5bd5w8LH0EG3I8B1Tksvf1XOm2oDq
+X9G+odeXjKduuQCGmucaZq12eKTVtw==
+=FNYs
+-----END PGP SIGNATURE-----
